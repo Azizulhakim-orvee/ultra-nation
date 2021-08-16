@@ -1,7 +1,19 @@
 .App {
   text-align: center;
+  margin-top:70px;
+  
 }
 
+.navbar{
+  position:fixed;
+  overflow:visible;
+  background-color: rgb(231, 231, 231);
+  top: 0;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content:space-around
+}
 
 
 @media (prefers-reduced-motion: no-preference) {
