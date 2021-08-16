@@ -1,0 +1,18 @@
+img{
+    height:100px;
+    padding:10px;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.details{
+    border:1px solid rgb(0, 0, 0);
+    padding:10px;
+    margin-bottom: 5px;
+}
+
+
+.country{
+    display: flex;
+    justify-content:space-evenly;
+}
+
